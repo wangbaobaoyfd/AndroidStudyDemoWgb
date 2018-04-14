@@ -12,3 +12,6 @@
 
 ## Retrofit
 - [x] 2016.9.28 练习Retrofit
+
+## AIDL
+- [x] 2018.4.14 练习AIDL
