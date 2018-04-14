@@ -1,1 +1,1 @@
-include ':app', ':listview_baseadapter', ':listview_refresh', ':retrofit_01_baidu', ':retrofit_02_tngou', ':retrofit_03_listview', ':retrofit_04_post', ':retrofit_05_xml'
+include ':listview_baseadapter', ':listview_refresh', ':retrofit_01_baidu', ':retrofit_02_tngou', ':retrofit_03_listview', ':retrofit_04_post', ':retrofit_05_xml', ':AIDLServer', ':AIDLClient'

@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AIDLClient/AIDLClient.iml" filepath="$PROJECT_DIR$/AIDLClient/AIDLClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AIDLServer/AIDLServer.iml" filepath="$PROJECT_DIR$/AIDLServer/AIDLServer.iml" />
       <module fileurl="file://$PROJECT_DIR$/AndroidStudyDemoWgb.iml" filepath="$PROJECT_DIR$/AndroidStudyDemoWgb.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/listview_baseadapter/listview_baseadapter.iml" filepath="$PROJECT_DIR$/listview_baseadapter/listview_baseadapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/listview_refresh/listview_refresh.iml" filepath="$PROJECT_DIR$/listview_refresh/listview_refresh.iml" />
       <module fileurl="file://$PROJECT_DIR$/retrofit_01_baidu/retrofit_01_baidu.iml" filepath="$PROJECT_DIR$/retrofit_01_baidu/retrofit_01_baidu.iml" />
